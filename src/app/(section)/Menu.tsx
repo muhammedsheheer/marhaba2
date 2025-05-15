@@ -20,7 +20,7 @@ const Menu: React.FC = () => {
       </div>
       <div className="absolute right-[10%] top-[5%] hidden md:block">
         <p className="max-w-[450px] text-center font-inter text-sm font-[500] text-[#fff] md:text-start">
-          At Marhaba, located in the heart of Blackburn, we blend the bold
+          At Marhaba, located in the heart of Wilmslow, we blend the bold
           flavors of street food with the sweetness of indulgence. From sizzling
           burgers and flame-grilled peri peri to creamy milkshakes and classic
           desserts, every item is crafted to satisfy cravings with flair and

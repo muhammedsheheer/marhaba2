@@ -46,7 +46,7 @@ const Story: React.FC = () => {
           >
             <p className="max-w-[450px] px-2 text-center font-inter text-sm font-[500] text-[#000] md:text-start md:text-base">
               At Marhaba, we serve bold street food and indulgent desserts in
-              the heart of Blackburn. From juicy burgers to creamy milkshakes,
+              the heart of Wilmslow. From juicy burgers to creamy milkshakes,
               every dish is made fresh with flair and flavor. Whether you`re
               craving spice or something sweet, Marhaba is your go-to comfort
               spot.
