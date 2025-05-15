@@ -35,7 +35,7 @@ const Story: React.FC = () => {
             viewport={{ once: false, amount: 0.5 }}
             transition={{ duration: 1 }}
           >
-            us and our <br /> story
+            our story
           </motion.h6>
           <motion.div
             className="flex flex-col items-center justify-center gap-4 md:items-start md:justify-start md:gap-6"
